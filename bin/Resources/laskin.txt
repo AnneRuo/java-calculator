@@ -1,0 +1,9 @@
+Wed Oct 06 21:28:09 EEST 2021 : Laskutoimitus : 3 + 4 = 7
+Wed Oct 06 21:51:33 EEST 2021 : Ohjelma käynnistyi.
+Wed Oct 06 21:51:44 EEST 2021 : Laskutoimitus : 1 + 2 = 3
+Wed Oct 06 21:51:56 EEST 2021 : Laskutoimitus : 3 - 2 = 1
+Wed Oct 06 21:52:01 EEST 2021 : Laskutoimitus : 4 * 5 = 20
+Wed Oct 06 21:52:08 EEST 2021 : Laskutoimitus : 6 / 3 = 2
+Wed Oct 06 21:52:41 EEST 2021 : Laskutoimitus : 10 / -2 = -5
+Wed Oct 06 21:52:50 EEST 2021 : Laskutoimitus : 0 / -2 = 0
+Wed Oct 06 21:53:03 EEST 2021 : Ohjelma suljettiin.
